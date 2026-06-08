@@ -59,7 +59,6 @@ tyre-defect-detection/
 │   └── tyre_classifiercnn.keras
 │
 ├── README.md
-├── requirements.txt
 └── .gitignore
 ```
 

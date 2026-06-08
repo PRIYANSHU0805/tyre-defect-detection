@@ -53,10 +53,10 @@ The system uses:
 tyre-defect-detection/
 │
 ├── notebook/
-│   └── tyre_detection.ipynb
+│   └── cnntyre_final.ipynb
 │
 ├── models/
-│   └── tyre_model.keras
+│   └── tyre_classifiercnn.keras
 │
 ├── README.md
 ├── requirements.txt
